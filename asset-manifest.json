@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.31ff18de.css",
+    "main.css": "/static/css/main.9a0b347b.css",
     "main.js": "/static/js/main.7f2b2374.js",
     "static/media/staff.png": "/static/media/staff.bfe3418ba9dde5d0ba44.png",
     "static/media/RobotoMono-VariableFont_wght.ttf": "/static/media/RobotoMono-VariableFont_wght.e1d699e6544d0dbf6ec7.ttf",
@@ -9,7 +9,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.31ff18de.css",
+    "static/css/main.9a0b347b.css",
     "static/js/main.7f2b2374.js"
   ]
 }
